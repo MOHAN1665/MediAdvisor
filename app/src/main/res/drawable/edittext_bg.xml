@@ -1,0 +1,5 @@
+<!-- res/drawable/edittext_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F5F5F5" /> <!-- Background color for the EditText -->
+    <corners android:radius="20dp" /> <!-- Adjust the radius as needed for rounded corners -->
+</shape>

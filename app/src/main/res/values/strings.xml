@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MediAdvisor</string>
+    <string name="enter_symptom">Enter Symptom:</string>
+    <string name="possible_causes">Possible Causes:</string>
+    <string name="severity">Severity:</string>
+    <string name="recommended_action">Recommended Action:</string>
+    <string name="check">Check</string>
+    <string name="e_g_fever">E.g., Fever</string>
+    <string name="child_symptoms_checker">Child Symptoms Checker</string>
+
+
+    <string name="causes_template">Possible Causes: %1$s</string>
+    <string name="severity_template">Severity: %1$s</string>
+    <string name="recommendation_template">Recommendation Action: %1$s</string>
+
+    <string name="causes_not_found">Causes: Not Found</string>
+    <string name="severity_not_available">Severity: N/A</string>
+    <string name="recommendation_default">Recommendation: Please consult a healthcare professional</string>
+    <string name="error_communicating_with_server">Error communicating with the server</string>
+
+
+</resources>

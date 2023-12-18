@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766190245662",
+    "project_id": "mediadvisor-9c034",
+    "storage_bucket": "mediadvisor-9c034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766190245662:android:eba0ceb315086e5bae1b0f",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766190245662-46r2r5l94gf1kq4ld76s8jp96u6s75no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJi8RbqnGUmCAmiRLMwVMonmVM8btICIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766190245662-46r2r5l94gf1kq4ld76s8jp96u6s75no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
